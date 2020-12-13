@@ -1,1 +1,6 @@
-Merge conflicts can be an intimidating experience. Luckily, Git offers powerful tools to help navigate and resolve conflicts. Git can handle most merges on its own with automatic merging features. A conflict arises when two separate branches have made edits to the same line in a file, or when a file has been deleted in one branch but edited in the other. Conflicts will most likely happen when working in a team environment.
+Merge conflicts can be an intimidating experience.
+Luckily, Git offers powerful tools to help navigate and resolve conflicts.
+Git can handle most merges on its own with automatic merging features.
+There are many tools to help resolve merge conflicts. Git has plenty of command line tools we discussed here. For more detailed information on these tools visit stand-alone pages for git log, git reset, git status, git checkout, and git reset. In addition to the Git, many third-party tools offer streamlined merge conflict support features.
+A conflict arises when two separate branches have made edits to the same line in a file, or when a file has been deleted in one branch but edited in the other.
+Conflicts will most likely happen when working in a team environment.
